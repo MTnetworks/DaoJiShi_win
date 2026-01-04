@@ -1,0 +1,9 @@
+Package: daojishi
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Your Name <your.email@example.com>
+Description: 倒计时工具
+ 专为会议、演讲、比赛设计的倒计时工具。
+ 具备简洁现代的界面和强大的自定义功能。

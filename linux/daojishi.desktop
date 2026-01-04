@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=倒计时
+Name[zh_CN]=倒计时
+Comment=会议演讲倒计时工具
+Exec=/opt/daojishi/DaoJiShi
+Icon=/opt/daojishi/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;TimeUtility;
+StartupNotify=true
