@@ -1,0 +1,57 @@
+{
+    "presets": [
+        {
+            "name": "5分钟",
+            "duration": 300,
+            "alert_time": 5,
+            "music": ""
+        },
+        {
+            "name": "15分钟",
+            "duration": 900,
+            "alert_time": 60,
+            "music": ""
+        },
+        {
+            "name": "30分钟",
+            "duration": 1800,
+            "alert_time": 10,
+            "music": ""
+        }
+    ],
+    "shortcuts": {
+        "start_pause": "f1",
+        "reset": "f2",
+        "next_preset": "f3",
+        "prev_preset": "f4",
+        "toggle_window": "f5",
+        "toggle_top": "ctrl+t",
+        "opacity_up": "f7",
+        "opacity_down": "f8",
+        "mute": "ctrl+m"
+    },
+    "window": {
+        "width": 333,
+        "height": 252,
+        "opacity": 1.0,
+        "topmost": true,
+        "x": 742,
+        "y": 186
+    },
+    "theme": "light",
+    "audio": {
+        "volume": 0.8,
+        "fade_duration": 2000,
+        "prompt_regular": "",
+        "prompt_confidential": ""
+    },
+    "reminder": {
+        "flash_seconds": 5,
+        "flash_color": "#FF0000"
+    },
+    "display": {
+        "format": "min_sec",
+        "font_size": 120
+    },
+    "last_preset_index": 1
+}
